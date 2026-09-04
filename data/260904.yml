@@ -7,15 +7,15 @@ about:
   head: 5c2750b
   archived: false
   latestVersion: beta
-  collectedAt: 2026-09-04T19:32:16Z
+  collectedAt: 2026-09-04T21:02:11Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-04
   lastRelease: 2026-07-17
 popularity:
-  star: 19849
+  star: 19858
   watcher: 82
-  fork: 2171
+  fork: 2169
   release: 48
   contributor: 25
   pullRequest: 1417
@@ -86,5 +86,68 @@ total:
   openIssue: 10
   commit: 4637
 ---
+path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
+collectedAt: 2026-09-04T21:02:16Z
+loc:
+  TypeScript:
+    code: 329108
+    comments: 13509
+    blanks: 34758
+    files: 973
+  Python:
+    code: 9616
+    comments: 590
+    blanks: 1483
+    files: 31
+  Json:
+    code: 7486
+    comments: 0
+    blanks: 12
+    files: 28
+  JavaScript:
+    code: 5879
+    comments: 273
+    blanks: 562
+    files: 20
+  Sh:
+    code: 2087
+    comments: 68
+    blanks: 116
+    files: 8
+  Css:
+    code: 867
+    comments: 0
+    blanks: 153
+    files: 1
+  Toml:
+    code: 157
+    comments: 16
+    blanks: 32
+    files: 14
+  Html:
+    code: 49
+    comments: 0
+    blanks: 1
+    files: 1
+  C:
+    code: 48
+    comments: 12
+    blanks: 12
+    files: 1
+  Svg:
+    code: 42
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 10209
+    blanks: 5192
+    files: 99
+total:
+  code: 360855
+  comments: 25404
+  blanks: 43014
+  files: 1178
 ---
 
