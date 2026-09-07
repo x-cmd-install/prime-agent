@@ -1,0 +1,185 @@
+about:
+  description: "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+  license: MIT
+  homepage: 
+  head: 2ce4431
+  archived: false
+  latestVersion: "beta"
+  collectedAt: 2026-09-07T04:21:40Z
+timeline:
+  created: 2026-05-08
+  lastCommit: 2026-09-07
+  lastRelease: 2026-07-17
+popularity:
+  star: 20069
+  watcher: 84
+  fork: 2196
+  release: 50
+  contributor: 25
+  pullRequest: 1435
+  issue: 355
+language:
+  TypeScript: 13146811
+  Python: 504977
+  JavaScript: 206265
+  Shell: 62953
+  CSS: 21911
+  HTML: 2135
+  C: 1709
+totalBytes: 13946761
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 9
+    mergedPR: 162
+    openPR: 47
+    closedIssue: 181
+    openIssue: 9
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 24
+    mergedPR: 366
+    openPR: 63
+    closedIssue: 345
+    openIssue: 10
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 41
+    mergedPR: 577
+    openPR: 65
+    closedIssue: 345
+    openIssue: 10
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 50
+    mergedPR: 670
+    openPR: 65
+    closedIssue: 345
+    openIssue: 10
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 50
+    mergedPR: 670
+    openPR: 65
+    closedIssue: 345
+    openIssue: 10
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 50
+    mergedPR: 670
+    openPR: 65
+    closedIssue: 345
+    openIssue: 10
+    commit: 4646
+total:
+  release: 50
+  mergedPR: 670
+  openPR: 65
+  closedIssue: 345
+  openIssue: 10
+  commit: 4646
+---
+path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
+collectedAt: 2026-09-07T04:21:51Z
+loc:
+  TypeScript:
+    code: 334978
+    comments: 13895
+    blanks: 35221
+    files: 991
+  Python:
+    code: 9730
+    comments: 595
+    blanks: 1506
+    files: 31
+  Json:
+    code: 7486
+    comments: 0
+    blanks: 12
+    files: 28
+  JavaScript:
+    code: 5879
+    comments: 273
+    blanks: 562
+    files: 20
+  Sh:
+    code: 2087
+    comments: 68
+    blanks: 116
+    files: 8
+  Css:
+    code: 867
+    comments: 0
+    blanks: 153
+    files: 1
+  Toml:
+    code: 157
+    comments: 16
+    blanks: 32
+    files: 14
+  Html:
+    code: 49
+    comments: 0
+    blanks: 1
+    files: 1
+  C:
+    code: 48
+    comments: 12
+    blanks: 12
+    files: 1
+  Svg:
+    code: 42
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 10240
+    blanks: 5200
+    files: 99
+total:
+  code: 366838
+  comments: 25826
+  blanks: 43508
+  files: 1196
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:21:52+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
