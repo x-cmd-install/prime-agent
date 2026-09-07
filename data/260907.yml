@@ -2,101 +2,101 @@ about:
   description: "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
   license: MIT
   homepage: 
-  head: 2ce4431
+  head: 9c8230d
   archived: false
   latestVersion: "beta"
-  collectedAt: 2026-09-07T04:21:40Z
+  collectedAt: 2026-09-07T20:04:08Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-07
   lastRelease: 2026-07-17
 popularity:
-  star: 20069
+  star: 20142
   watcher: 84
-  fork: 2196
+  fork: 2200
   release: 50
   contributor: 25
-  pullRequest: 1435
-  issue: 355
+  pullRequest: 1439
+  issue: 356
 language:
-  TypeScript: 13146811
-  Python: 504977
+  TypeScript: 13254516
+  Python: 537972
   JavaScript: 206265
   Shell: 62953
   CSS: 21911
   HTML: 2135
   C: 1709
-totalBytes: 13946761
+totalBytes: 14087461
 recent:
   last30d:
     since: 2026-08-08
     release: 9
-    mergedPR: 162
-    openPR: 47
-    closedIssue: 181
+    mergedPR: 164
+    openPR: 49
+    closedIssue: 182
     openIssue: 9
-    commit: 0
+    commit: 146
   last60d:
     since: 2026-07-09
     release: 24
-    mergedPR: 366
-    openPR: 63
-    closedIssue: 345
+    mergedPR: 368
+    openPR: 65
+    closedIssue: 346
     openIssue: 10
-    commit: 0
+    commit: 339
   last90d:
     since: 2026-06-09
     release: 41
-    mergedPR: 577
-    openPR: 65
-    closedIssue: 345
+    mergedPR: 579
+    openPR: 67
+    closedIssue: 346
     openIssue: 10
-    commit: 0
+    commit: 536
   last180d:
     since: 2026-03-11
     release: 50
-    mergedPR: 670
-    openPR: 65
-    closedIssue: 345
+    mergedPR: 672
+    openPR: 67
+    closedIssue: 346
     openIssue: 10
-    commit: 0
+    commit: 1392
   last360d:
     since: 2025-09-12
     release: 50
-    mergedPR: 670
-    openPR: 65
-    closedIssue: 345
+    mergedPR: 672
+    openPR: 67
+    closedIssue: 346
     openIssue: 10
-    commit: 0
+    commit: 4333
   last720d:
     since: 2024-09-17
     release: 50
-    mergedPR: 670
-    openPR: 65
-    closedIssue: 345
+    mergedPR: 672
+    openPR: 67
+    closedIssue: 346
     openIssue: 10
-    commit: 4646
+    commit: 4648
 total:
   release: 50
-  mergedPR: 670
-  openPR: 65
-  closedIssue: 345
+  mergedPR: 672
+  openPR: 67
+  closedIssue: 346
   openIssue: 10
-  commit: 4646
+  commit: 4648
 ---
 path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
-collectedAt: 2026-09-07T04:21:51Z
+collectedAt: 2026-09-07T20:04:17Z
 loc:
   TypeScript:
-    code: 334978
-    comments: 13895
-    blanks: 35221
-    files: 991
+    code: 337567
+    comments: 13896
+    blanks: 35368
+    files: 1002
   Python:
-    code: 9730
-    comments: 595
-    blanks: 1506
-    files: 31
+    code: 10420
+    comments: 598
+    blanks: 1574
+    files: 32
   Json:
     code: 7486
     comments: 0
@@ -139,19 +139,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 10240
-    blanks: 5200
+    comments: 10245
+    blanks: 5204
     files: 99
 total:
-  code: 366838
-  comments: 25826
-  blanks: 43508
-  files: 1196
+  code: 370119
+  comments: 25835
+  blanks: 43727
+  files: 1208
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:52+00:00
+  collectedAt: 2026-09-07T20:04:19+00:00
   platform:
     darwin/arm64:
       name:  null
