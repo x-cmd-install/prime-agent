@@ -5,18 +5,18 @@ about:
   head: 9c8230d
   archived: false
   latestVersion: "beta"
-  collectedAt: 2026-09-08T01:43:02Z
+  collectedAt: 2026-09-08T04:22:34Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-07
   lastRelease: 2026-07-17
 popularity:
-  star: 20180
+  star: 20192
   watcher: 84
-  fork: 2201
+  fork: 2203
   release: 50
   contributor: 25
-  pullRequest: 1442
+  pullRequest: 1443
   issue: 358
 language:
   TypeScript: 13254516
@@ -85,7 +85,7 @@ total:
   commit: 4648
 ---
 path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
-collectedAt: 2026-09-08T01:43:11Z
+collectedAt: 2026-09-08T04:22:50Z
 loc:
   TypeScript:
     code: 337567
