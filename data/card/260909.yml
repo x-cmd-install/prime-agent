@@ -1,0 +1,156 @@
+about:
+  description: "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+  license: MIT
+  homepage: 
+  head: 71766ab
+  archived: false
+  latestVersion: "beta"
+  latestRelease: "v0.9.4"
+  latestPrerelease: "beta"
+  collectedAt: 2026-09-09T04:27:14Z
+timeline:
+  created: 2026-05-08
+  lastCommit: 2026-09-09
+  lastVersion: 2026-07-17
+  lastRelease: 2026-09-08
+  lastPrerelease: 2026-07-17
+popularity:
+  star: 20346
+  watcher: 86
+  fork: 2226
+  release: 51
+  contributor: 25
+  pullRequest: 1470
+  issue: 360
+language:
+  TypeScript: 13289355
+  Python: 537972
+  JavaScript: 206265
+  Shell: 62953
+  CSS: 21911
+  HTML: 2135
+  C: 1709
+totalBytes: 14122300
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 10
+    mergedPR: 169
+    openPR: 53
+    closedIssue: 144
+    openIssue: 9
+    commit: 154
+  last60d:
+    since: 2026-07-11
+    release: 23
+    mergedPR: 364
+    openPR: 81
+    closedIssue: 350
+    openIssue: 10
+    commit: 347
+  last90d:
+    since: 2026-06-11
+    release: 42
+    mergedPR: 556
+    openPR: 84
+    closedIssue: 350
+    openIssue: 10
+    commit: 544
+  last180d:
+    since: 2026-03-13
+    release: 51
+    mergedPR: 680
+    openPR: 84
+    closedIssue: 350
+    openIssue: 10
+    commit: 1400
+  last360d:
+    since: 2025-09-14
+    release: 51
+    mergedPR: 680
+    openPR: 84
+    closedIssue: 350
+    openIssue: 10
+    commit: 4341
+  last720d:
+    since: 2024-09-19
+    release: 51
+    mergedPR: 680
+    openPR: 84
+    closedIssue: 350
+    openIssue: 10
+    commit: 4656
+total:
+  release: 51
+  mergedPR: 680
+  openPR: 84
+  closedIssue: 350
+  openIssue: 10
+  commit: 4656
+---
+path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
+collectedAt: 2026-09-09T04:27:25Z
+loc:
+  TypeScript:
+    code: 338321
+    comments: 13945
+    blanks: 35431
+    files: 1003
+  Python:
+    code: 10420
+    comments: 598
+    blanks: 1574
+    files: 32
+  Json:
+    code: 7486
+    comments: 0
+    blanks: 12
+    files: 28
+  JavaScript:
+    code: 5879
+    comments: 273
+    blanks: 562
+    files: 20
+  Sh:
+    code: 2087
+    comments: 68
+    blanks: 116
+    files: 8
+  Css:
+    code: 867
+    comments: 0
+    blanks: 153
+    files: 1
+  Toml:
+    code: 157
+    comments: 16
+    blanks: 32
+    files: 14
+  Html:
+    code: 49
+    comments: 0
+    blanks: 1
+    files: 1
+  C:
+    code: 48
+    comments: 12
+    blanks: 12
+    files: 1
+  Svg:
+    code: 42
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 10304
+    blanks: 5212
+    files: 99
+total:
+  code: 370873
+  comments: 25943
+  blanks: 43798
+  files: 1209
+---
+
+---
