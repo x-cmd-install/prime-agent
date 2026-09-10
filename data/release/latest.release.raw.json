@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 820,
       "digest": "sha256:8350e5fd6d85ebcbd5129554276479e15968fc32eb305189509c84cc6b2b0a35",
-      "download_count": 22,
+      "download_count": 32,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10028862,
       "digest": "sha256:b8d752a53d11a8c9a7580e1fb5fc24f7ce74ccad979c7e6e6aa8880fc3ad90b0",
-      "download_count": 163,
+      "download_count": 209,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:04Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/prime-agent-0.9.4.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 563815,
       "digest": "sha256:ac2798a204f06004776807e3160812fb72877c85718d8024c6d5add8242ece18",
-      "download_count": 33,
+      "download_count": 38,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/prime-agent-ai-0.9.4.tgz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 59346,
       "digest": "sha256:200b86d62c1502ef0d56acb8a4c306f25b57b378e4c4afddfa592e8110b0be1f",
-      "download_count": 31,
+      "download_count": 36,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/prime-agent-core-0.9.4.tgz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 429556,
       "digest": "sha256:7a64042e8c4de83bdd453cc9d429a44f0bd860f78e22ebba35e8468ac31642e7",
-      "download_count": 18,
+      "download_count": 23,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/prime-agent-tui-0.9.4.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 364,
       "digest": "sha256:26f959ba4d7517b764736cc2b5da6e81dcc3c3fdce496bc84732f2f66d3b812e",
-      "download_count": 56,
+      "download_count": 72,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/SHA256SUMS"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:3482cfb36d90789b9455b105f15b336f01b42e2c2cef0b9e8cb3901840599f67",
-      "download_count": 234,
+      "download_count": 333,
       "created_at": "2026-09-08T23:18:03Z",
       "updated_at": "2026-09-08T23:18:03Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/stable"
