@@ -7,7 +7,7 @@ about:
   latestVersion: "beta"
   latestRelease: "v0.9.4"
   latestPrerelease: "beta"
-  collectedAt: 2026-09-11T00:19:58Z
+  collectedAt: 2026-09-11T04:24:46Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-07-17
 popularity:
-  star: 20504
+  star: 20516
   watcher: 87
-  fork: 2245
+  fork: 2246
   release: 51
   contributor: 25
-  pullRequest: 1526
+  pullRequest: 1527
   issue: 361
 language:
   TypeScript: 13374560
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-12
     release: 9
     mergedPR: 172
-    openPR: 72
+    openPR: 73
     closedIssue: 99
     openIssue: 8
     commit: 171
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-13
     release: 23
     mergedPR: 378
-    openPR: 106
+    openPR: 107
     closedIssue: 351
     openIssue: 10
     commit: 364
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-13
     release: 38
     mergedPR: 565
-    openPR: 109
+    openPR: 110
     closedIssue: 351
     openIssue: 10
     commit: 561
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-15
     release: 51
     mergedPR: 699
-    openPR: 109
+    openPR: 110
     closedIssue: 351
     openIssue: 10
     commit: 1417
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-16
     release: 51
     mergedPR: 699
-    openPR: 109
+    openPR: 110
     closedIssue: 351
     openIssue: 10
     commit: 4358
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-21
     release: 51
     mergedPR: 699
-    openPR: 109
+    openPR: 110
     closedIssue: 351
     openIssue: 10
     commit: 4673
 total:
   release: 51
   mergedPR: 699
-  openPR: 109
+  openPR: 110
   closedIssue: 351
   openIssue: 10
   commit: 4673
 ---
 path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
-collectedAt: 2026-09-11T00:20:11Z
+collectedAt: 2026-09-11T04:24:57Z
 loc:
   TypeScript:
     code: 340409
