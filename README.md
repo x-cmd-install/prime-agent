@@ -12,6 +12,18 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 x install prime-agent
 ```
 
+## Code insight
+
+Total: **370,523** lines of code across **1114** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 340,409 | 13,927 | 35,578 | 1013 |
+| Python | 12,973 | 601 | 1,823 | 42 |
+| Json | 7,901 | 0 | 12 | 30 |
+| JavaScript | 5,969 | 275 | 568 | 21 |
+| Sh | 2,087 | 68 | 116 | 8 |
+
 ## Source
 
 - **Upstream**: <https://github.com/PrimeIntellect-ai/prime-agent>
@@ -22,6 +34,25 @@ x install prime-agent
 - **Latest**: `beta` (2026-09-08)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 20,504 · **Forks**: 2,245 · **Open issues**: 361 · **Contributors**: 25
+
+## Totals (cumulative)
+
+- **Releases**: 51 · **Merged PRs**: 699 · **Open PRs**: 109 · **Closed issues**: 351 · **Open issues**: 10 · **Commits**: 4673
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 9 | 172 | 72 | 99 | 8 | 171 |
+| last60d | 2026-07-13 | 23 | 378 | 106 | 351 | 10 | 364 |
+| 90d | 2026-06-13 | 38 | 565 | 109 | 351 | 10 | 561 |
+| last180d | 2026-03-15 | 51 | 699 | 109 | 351 | 10 | 1417 |
+| 360d | 2025-09-16 | 51 | 699 | 109 | 351 | 10 | 4358 |
+| last720d | 2024-09-21 | 51 | 699 | 109 | 351 | 10 | 4673 |
 
 ## Release assets
 
@@ -35,34 +66,6 @@ x install prime-agent
 | [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/SHA256SUMS) | 364 B | `other` |
 | [stable](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.4/stable) | 7 B | `other` |
 
-## Popularity
-
-- **Stars**: 20,479 · **Forks**: 2,244 · **Open issues**: 361 · **Contributors**: 25
-
-## Totals (cumulative)
-
-- **Releases**: 51 · **Merged PRs**: 693 · **Open PRs**: 114 · **Closed issues**: 351 · **Open issues**: 10 · **Commits**: 4667
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 172 | 77 | 114 | 8 | 165 |
-| 90d | 2026-06-12 | 41 | 559 | 114 | 351 | 10 | 555 |
-| 360d | 2025-09-15 | 51 | 693 | 114 | 351 | 10 | 4352 |
-
-## Code size
-
-Total: **369,840** lines of code across **1114** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 339,844 | 13,882 | 35,519 | 1013 |
-| Python | 12,855 | 599 | 1,816 | 42 |
-| Json | 7,901 | 0 | 12 | 30 |
-| JavaScript | 5,969 | 275 | 568 | 21 |
-| Sh | 2,087 | 68 | 116 | 8 |
-
 ## Improve this data
 
 Install metadata for prime-agent lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `prime-agent` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -72,4 +75,4 @@ Install metadata for prime-agent lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:20:17Z._
