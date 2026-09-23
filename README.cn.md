@@ -4,7 +4,7 @@
 
 A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
-[![x-cmd/install — prime-agent Code Quality Monitoring Repo Card](https://repo.x-cmd.io/prime-agent.svg?lang=zh)](https://x-cmd.com/install/prime-agent)
+[![x-cmd/install — prime-agent Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/prime-agent.svg?lang=zh)](https://x-cmd.com/install/prime-agent)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install prime-agent
 
 ## 代码洞察
 
-合计: **387,538** 行代码（覆盖前 5 种语言、共 **1040** 个文件）。
+合计: **351,253** 行代码（覆盖前 5 种语言、共 **1060** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 326,624 | 19,858 | 28,779 | 893 |
-| Json | 26,813 | 0 | 12 | 41 |
-| Python | 22,945 | 906 | 3,012 | 65 |
-| JavaScript | 7,169 | 317 | 614 | 32 |
+| TypeScript | 306,851 | 20,438 | 29,292 | 916 |
+| Python | 23,189 | 921 | 3,042 | 66 |
+| Json | 9,324 | 0 | 12 | 34 |
+| JavaScript | 7,902 | 362 | 659 | 35 |
 | Sh | 2,810 | 137 | 153 | 9 |
 
 ## 源代码
@@ -32,27 +32,27 @@ x install prime-agent
 ## 发布
 
 - **最新版本**: `beta` (2026-09-16)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 21,148 · **Fork**: 2,313 · **开放 issue**: 372 · **贡献者**: 29
+- **Star**: 21,192 · **Fork**: 2,318 · **开放 issue**: 374 · **贡献者**: 29
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 849 · **开放 PR**: 79 · **已关闭 issue**: 363 · **开放 issue**: 9 · **提交数**: 4816
+- **发布数**: 54 · **已合并 PR**: 909 · **开放 PR**: 70 · **已关闭 issue**: 365 · **开放 issue**: 9 · **提交数**: 4850
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 9 | 261 | 78 | 59 | 1 | 248 |
-| last60d | 2026-07-24 | 21 | 429 | 79 | 363 | 8 | 412 |
-| 90d | 2026-06-24 | 33 | 641 | 79 | 363 | 9 | 619 |
-| last180d | 2026-03-26 | 54 | 849 | 79 | 363 | 9 | 1375 |
-| 360d | 2025-09-27 | 54 | 849 | 79 | 363 | 9 | 4487 |
-| last720d | 2024-10-02 | 54 | 849 | 79 | 363 | 9 | 4816 |
+| 30d | 2026-08-24 | 9 | 319 | 69 | 54 | 1 | 282 |
+| last60d | 2026-07-25 | 20 | 489 | 70 | 365 | 8 | 446 |
+| 90d | 2026-06-25 | 33 | 689 | 70 | 365 | 9 | 653 |
+| last180d | 2026-03-27 | 54 | 909 | 70 | 365 | 9 | 1409 |
+| 360d | 2025-09-28 | 54 | 909 | 70 | 365 | 9 | 4521 |
+| last720d | 2024-10-03 | 54 | 909 | 70 | 365 | 9 | 4850 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ prime-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:39:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:35:44Z._
