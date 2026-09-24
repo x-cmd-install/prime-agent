@@ -14,12 +14,12 @@ x install prime-agent
 
 ## 代码洞察
 
-合计: **351,253** 行代码（覆盖前 5 种语言、共 **1060** 个文件）。
+合计: **351,894** 行代码（覆盖前 5 种语言、共 **1060** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 306,851 | 20,438 | 29,292 | 916 |
-| Python | 23,189 | 921 | 3,042 | 66 |
+| TypeScript | 307,295 | 20,513 | 29,314 | 916 |
+| Python | 23,386 | 941 | 3,059 | 66 |
 | Json | 9,324 | 0 | 12 | 34 |
 | JavaScript | 7,902 | 362 | 659 | 35 |
 | Sh | 2,810 | 137 | 153 | 9 |
@@ -31,48 +31,48 @@ x install prime-agent
 
 ## 发布
 
-- **最新版本**: `beta` (2026-09-16)
-- **最近提交**: 2026-09-23
+- **最新版本**: `v0.9.6` (2026-09-24)
+- **最近提交**: 2026-09-24
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 21,192 · **Fork**: 2,318 · **开放 issue**: 374 · **贡献者**: 29
+- **Star**: 21,253 · **Fork**: 2,325 · **开放 issue**: 374 · **贡献者**: 29
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 909 · **开放 PR**: 70 · **已关闭 issue**: 365 · **开放 issue**: 9 · **提交数**: 4850
+- **发布数**: 55 · **已合并 PR**: 1010 · **开放 PR**: 72 · **已关闭 issue**: 365 · **开放 issue**: 9 · **提交数**: 4859
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 9 | 319 | 69 | 54 | 1 | 282 |
-| last60d | 2026-07-25 | 20 | 489 | 70 | 365 | 8 | 446 |
-| 90d | 2026-06-25 | 33 | 689 | 70 | 365 | 9 | 653 |
-| last180d | 2026-03-27 | 54 | 909 | 70 | 365 | 9 | 1409 |
-| 360d | 2025-09-28 | 54 | 909 | 70 | 365 | 9 | 4521 |
-| last720d | 2024-10-03 | 54 | 909 | 70 | 365 | 9 | 4850 |
+| 30d | 2026-08-25 | 10 | 416 | 71 | 52 | 1 | 291 |
+| last60d | 2026-07-26 | 21 | 589 | 72 | 365 | 8 | 455 |
+| 90d | 2026-06-26 | 33 | 784 | 72 | 365 | 9 | 662 |
+| last180d | 2026-03-28 | 55 | 1010 | 72 | 365 | 9 | 1418 |
+| 360d | 2025-09-29 | 55 | 1010 | 72 | 365 | 9 | 4530 |
+| last720d | 2024-10-04 | 55 | 1010 | 72 | 365 | 9 | 4859 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/latest.json) | 4.1 KiB | `other` |
-| [prime-agent-0.9.5-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-darwin-arm64.tar.gz) | 47.2 MiB | `native/darwin/arm64` |
-| [prime-agent-0.9.5-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-darwin-x64.tar.gz) | 50.0 MiB | `native/darwin/x64` |
-| [prime-agent-0.9.5-linux-arm64-musl.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-arm64-musl.tar.gz) | 53.8 MiB | `native/linux/arm64/musl` |
-| [prime-agent-0.9.5-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-arm64.tar.gz) | 56.8 MiB | `native/linux/arm64` |
-| [prime-agent-0.9.5-linux-x64-baseline.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-x64-baseline.tar.gz) | 57.0 MiB | `native/unknown` |
-| [prime-agent-0.9.5-linux-x64-musl-baseline.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-x64-musl-baseline.tar.gz) | 53.8 MiB | `native/unknown` |
-| [prime-agent-0.9.5-linux-x64-musl.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-x64-musl.tar.gz) | 53.9 MiB | `native/unknown` |
-| [prime-agent-0.9.5-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5-linux-x64.tar.gz) | 57.0 MiB | `native/unknown` |
-| [prime-agent-0.9.5.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-0.9.5.tgz) | 10.0 MiB | `native/unknown` |
-| [prime-agent-ai-0.9.5.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-ai-0.9.5.tgz) | 563.5 KiB | `native/unknown` |
-| [prime-agent-core-0.9.5.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-core-0.9.5.tgz) | 58.0 KiB | `native/unknown` |
-| [prime-agent-tui-0.9.5.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/prime-agent-tui-0.9.5.tgz) | 422.6 KiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/SHA256SUMS) | 1.2 KiB | `other` |
-| [stable](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.5/stable) | 7 B | `other` |
+| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/latest.json) | 4.1 KiB | `other` |
+| [prime-agent-0.9.6-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-darwin-arm64.tar.gz) | 48.1 MiB | `native/darwin/arm64` |
+| [prime-agent-0.9.6-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-darwin-x64.tar.gz) | 51.0 MiB | `native/darwin/x64` |
+| [prime-agent-0.9.6-linux-arm64-musl.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-arm64-musl.tar.gz) | 54.8 MiB | `native/linux/arm64/musl` |
+| [prime-agent-0.9.6-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-arm64.tar.gz) | 57.9 MiB | `native/linux/arm64` |
+| [prime-agent-0.9.6-linux-x64-baseline.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-x64-baseline.tar.gz) | 57.9 MiB | `native/unknown` |
+| [prime-agent-0.9.6-linux-x64-musl-baseline.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-x64-musl-baseline.tar.gz) | 54.8 MiB | `native/unknown` |
+| [prime-agent-0.9.6-linux-x64-musl.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-x64-musl.tar.gz) | 54.8 MiB | `native/unknown` |
+| [prime-agent-0.9.6-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6-linux-x64.tar.gz) | 57.9 MiB | `native/unknown` |
+| [prime-agent-0.9.6.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-0.9.6.tgz) | 10.8 MiB | `native/unknown` |
+| [prime-agent-ai-0.9.6.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-ai-0.9.6.tgz) | 520.0 KiB | `native/unknown` |
+| [prime-agent-core-0.9.6.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-core-0.9.6.tgz) | 61.0 KiB | `native/unknown` |
+| [prime-agent-tui-0.9.6.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/prime-agent-tui-0.9.6.tgz) | 441.1 KiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/SHA256SUMS) | 1.2 KiB | `other` |
+| [stable](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.6/stable) | 7 B | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ prime-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T04:35:44Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T04:32:48Z._
