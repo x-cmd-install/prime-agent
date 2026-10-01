@@ -1,0 +1,163 @@
+about:
+  description: "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+  license: NOASSERTION
+  homepage: 
+  head: 3358e00
+  archived: false
+  latestVersion: "v0.9.9-beta.11"
+  latestRelease: "v0.9.8"
+  latestPrerelease: "v0.9.9-beta.11"
+  collectedAt: 2026-10-01T05:36:52Z
+timeline:
+  created: 2026-05-08
+  lastCommit: 2026-10-01
+  lastVersion: 2026-10-01
+  lastRelease: 2026-09-29
+  lastPrerelease: 2026-10-01
+popularity:
+  star: 21431
+  watcher: 86
+  fork: 2357
+  release: 64
+  contributor: 32
+  pullRequest: 2480
+  issue: 383
+language:
+  Rust: 22324374
+  Python: 942897
+  Shell: 92672
+  JavaScript: 68264
+  CSS: 21911
+  Makefile: 9019
+  TypeScript: 2423
+  HTML: 2135
+  Ruby: 1938
+totalBytes: 23465633
+recent:
+  last30d:
+    since: 2026-09-01
+    release: 18
+    mergedPR: 809
+    openPR: 115
+    closedIssue: 40
+    openIssue: 7
+    commit: 284
+  last60d:
+    since: 2026-08-02
+    release: 29
+    mergedPR: 1002
+    openPR: 117
+    closedIssue: 367
+    openIssue: 15
+    commit: 472
+  last90d:
+    since: 2026-07-03
+    release: 40
+    mergedPR: 1200
+    openPR: 117
+    closedIssue: 367
+    openIssue: 16
+    commit: 681
+  last180d:
+    since: 2026-04-04
+    release: 64
+    mergedPR: 1459
+    openPR: 117
+    closedIssue: 367
+    openIssue: 16
+    commit: 1433
+  last360d:
+    since: 2025-10-06
+    release: 64
+    mergedPR: 1459
+    openPR: 117
+    closedIssue: 367
+    openIssue: 16
+    commit: 4528
+  last720d:
+    since: 2024-10-11
+    release: 64
+    mergedPR: 1459
+    openPR: 117
+    closedIssue: 367
+    openIssue: 16
+    commit: 4917
+total:
+  release: 64
+  mergedPR: 1459
+  openPR: 117
+  closedIssue: 367
+  openIssue: 16
+  commit: 4917
+---
+path: /home/runner/.x-repo/github.com/PrimeIntellect-ai/prime-agent
+collectedAt: 2026-10-01T05:37:09Z
+loc:
+  Rust:
+    code: 451446
+    comments: 35878
+    blanks: 27856
+    files: 1189
+  Json:
+    code: 34929
+    comments: 0
+    blanks: 12
+    files: 19
+  Python:
+    code: 17924
+    comments: 1138
+    blanks: 2504
+    files: 49
+  JavaScript:
+    code: 2641
+    comments: 69
+    blanks: 201
+    files: 3
+  Sh:
+    code: 1107
+    comments: 700
+    blanks: 86
+    files: 3
+  Css:
+    code: 867
+    comments: 0
+    blanks: 153
+    files: 1
+  Toml:
+    code: 861
+    comments: 126
+    blanks: 98
+    files: 22
+  Makefile:
+    code: 102
+    comments: 52
+    blanks: 21
+    files: 1
+  TypeScript:
+    code: 68
+    comments: 11
+    blanks: 6
+    files: 1
+  Html:
+    code: 49
+    comments: 0
+    blanks: 1
+    files: 1
+  Ruby:
+    code: 35
+    comments: 13
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2142
+    blanks: 489
+    files: 37
+total:
+  code: 510274
+  comments: 94931
+  blanks: 34027
+  files: 1328
+---
+
+---
