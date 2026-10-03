@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4232,
       "digest": "sha256:750d926dafa748b39d0cfc18c606de1e789b16446223c59dc49bb02b17dcad53",
-      "download_count": 34,
+      "download_count": 47,
       "created_at": "2026-09-29T22:06:32Z",
       "updated_at": "2026-09-29T22:06:33Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 50425325,
       "digest": "sha256:078c9abd519978ef27f6404367e37a2981267db47f1b95b60940ea7fe6ead8b9",
-      "download_count": 21,
+      "download_count": 27,
       "created_at": "2026-09-29T22:06:33Z",
       "updated_at": "2026-09-29T22:06:38Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 53472183,
       "digest": "sha256:0ddac4fa06eb47043f661bee8da8d16d9a7d740a09adb8269d12bf3a76ded87a",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-29T22:06:33Z",
       "updated_at": "2026-09-29T22:06:38Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8-darwin-x64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 60690085,
       "digest": "sha256:88a98ceff22d56f9a28ad8c41f38857f6586165f06761641f2190b0d5f8e4626",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-09-29T22:06:33Z",
       "updated_at": "2026-09-29T22:06:37Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 60716124,
       "digest": "sha256:425f3e57ed8b86c8e1078b6e80bf9c678be262d377e23f4d82c036c1d6734442",
-      "download_count": 67,
+      "download_count": 68,
       "created_at": "2026-09-29T22:06:33Z",
       "updated_at": "2026-09-29T22:06:37Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8-linux-x64-baseline.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 60748686,
       "digest": "sha256:83fb09129bf78e3e60268212cd70932166591b15188caa70c1b0efbcc76235e2",
-      "download_count": 58,
+      "download_count": 81,
       "created_at": "2026-09-29T22:06:38Z",
       "updated_at": "2026-09-29T22:06:41Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8-linux-x64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11337226,
       "digest": "sha256:d7b72785119efc28bfbca8ec4a7f47a1fcdcf47fcd8cebdb60bffaa79e3e1274",
-      "download_count": 163,
+      "download_count": 224,
       "created_at": "2026-09-29T22:06:38Z",
       "updated_at": "2026-09-29T22:06:39Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-0.9.8.tgz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 532602,
       "digest": "sha256:3efd07d12eafa4c3f1a9fdb16420c276f9162482498ef29e07de4704c2c5c669",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-09-29T22:06:39Z",
       "updated_at": "2026-09-29T22:06:39Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-ai-0.9.8.tgz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 62441,
       "digest": "sha256:301b7c0c2598fce5378ac26063c531b22424e44e3e8dbc2f179e796cfa1928b4",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-09-29T22:06:40Z",
       "updated_at": "2026-09-29T22:06:40Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-core-0.9.8.tgz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 452664,
       "digest": "sha256:fd161813688e5e4bea0ae6847779e0e4d33525e8145380979119229dd27165d4",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-09-29T22:06:40Z",
       "updated_at": "2026-09-29T22:06:40Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/prime-agent-tui-0.9.8.tgz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1213,
       "digest": "sha256:725e3db426786dc6aae6d36615cfefd2e787248e90bbc3b9271f195f35c13855",
-      "download_count": 71,
+      "download_count": 88,
       "created_at": "2026-09-29T22:06:32Z",
       "updated_at": "2026-09-29T22:06:33Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/SHA256SUMS"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:709a63474fb8b1ad1f49b62a0c89959e71e2046edd7fe388637c9ee04bc1ef23",
-      "download_count": 311,
+      "download_count": 415,
       "created_at": "2026-09-29T22:06:40Z",
       "updated_at": "2026-09-29T22:06:40Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.9.8/stable"
