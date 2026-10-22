@@ -14,12 +14,12 @@ x install prime-agent
 
 ## Code insight
 
-Total: **613,067** lines of code across **1463** files in the top 5 languages.
+Total: **614,872** lines of code across **1463** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 524,573 | 23,333 | 31,385 | 1303 |
-| Python | 44,919 | 3,232 | 5,026 | 132 |
+| Rust | 526,361 | 23,352 | 31,466 | 1303 |
+| Python | 44,935 | 3,236 | 5,026 | 132 |
 | Json | 35,551 | 0 | 12 | 21 |
 | JavaScript | 2,956 | 98 | 208 | 4 |
 | Sh | 2,130 | 1,245 | 96 | 3 |
@@ -31,50 +31,50 @@ Total: **613,067** lines of code across **1463** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightly` (2026-10-09)
-- **Last commit**: 2026-10-20
+- **Latest**: `v0.10.1` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,217 · **Forks**: 2,453 · **Open issues**: 432 · **Contributors**: 34
+- **Stars**: 22,246 · **Forks**: 2,461 · **Open issues**: 435 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 1703 · **Open PRs**: 123 · **Closed issues**: 412 · **Open issues**: 20 · **Commits**: 5153
+- **Releases**: 59 · **Merged PRs**: 1715 · **Open PRs**: 120 · **Closed issues**: 415 · **Open issues**: 20 · **Commits**: 5165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 819 | 82 | 50 | 11 | 294 |
-| last60d | 2026-08-22 | 13 | 1120 | 122 | 118 | 12 | 589 |
-| 90d | 2026-07-23 | 25 | 1287 | 123 | 412 | 20 | 753 |
-| last180d | 2026-04-24 | 57 | 1703 | 123 | 412 | 20 | 1312 |
-| 360d | 2025-10-26 | 57 | 1703 | 123 | 412 | 20 | 4704 |
-| last720d | 2024-10-31 | 57 | 1703 | 123 | 412 | 20 | 5153 |
+| 30d | 2026-09-22 | 8 | 816 | 75 | 51 | 11 | 306 |
+| last60d | 2026-08-23 | 15 | 1127 | 119 | 112 | 12 | 601 |
+| 90d | 2026-07-24 | 27 | 1295 | 120 | 415 | 19 | 765 |
+| last180d | 2026-04-25 | 59 | 1715 | 120 | 415 | 20 | 1324 |
+| 360d | 2025-10-27 | 59 | 1715 | 120 | 415 | 20 | 4716 |
+| last720d | 2024-11-01 | 59 | 1715 | 120 | 415 | 20 | 5165 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/latest.json) | 1.8 KiB | `other` |
-| [manifest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/manifest.json) | 2.4 KiB | `other` |
-| [prime-agent-0.10.0-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-darwin-arm64.tar.gz) | 19.9 MiB | `native/darwin/arm64` |
-| [prime-agent-0.10.0-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-darwin-x64.tar.gz) | 20.6 MiB | `native/darwin/x64` |
-| [prime-agent-0.10.0-linux-arm64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-linux-arm64.debug.gz) | 41.1 MiB | `native/linux/arm64` |
-| [prime-agent-0.10.0-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-linux-arm64.tar.gz) | 20.8 MiB | `native/linux/arm64` |
-| [prime-agent-0.10.0-linux-x64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-linux-x64.debug.gz) | 41.4 MiB | `other` |
-| [prime-agent-0.10.0-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-linux-x64.tar.gz) | 20.6 MiB | `native/unknown` |
-| [prime-agent-0.10.0-src.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-src.tar.gz) | 6.0 MiB | `native/unknown` |
-| [prime-agent-0.10.0-win32-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0-win32-x64.tar.gz) | 19.7 MiB | `native/win/x64` |
-| [prime-agent-0.10.0.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/prime-agent-0.10.0.tgz) | 10.6 MiB | `native/unknown` |
-| [sbom-spdx-0.10.0-aarch64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/sbom-spdx-0.10.0-aarch64-apple-darwin.json) | 1.2 KiB | `native/darwin/arm64` |
-| [sbom-spdx-0.10.0-aarch64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/sbom-spdx-0.10.0-aarch64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/arm64/glibc` |
-| [sbom-spdx-0.10.0-x86_64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/sbom-spdx-0.10.0-x86_64-apple-darwin.json) | 1.2 KiB | `native/darwin/x64` |
-| [sbom-spdx-0.10.0-x86_64-pc-windows-msvc.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/sbom-spdx-0.10.0-x86_64-pc-windows-msvc.json) | 2.9 KiB | `native/win/x64` |
-| [sbom-spdx-0.10.0-x86_64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/sbom-spdx-0.10.0-x86_64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/x64/glibc` |
-| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.0/SHA256SUMS) | 911 B | `other` |
+| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/latest.json) | 1.8 KiB | `other` |
+| [manifest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/manifest.json) | 2.4 KiB | `other` |
+| [prime-agent-0.10.1-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-darwin-arm64.tar.gz) | 21.2 MiB | `native/darwin/arm64` |
+| [prime-agent-0.10.1-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-darwin-x64.tar.gz) | 21.9 MiB | `native/darwin/x64` |
+| [prime-agent-0.10.1-linux-arm64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-arm64.debug.gz) | 43.9 MiB | `native/linux/arm64` |
+| [prime-agent-0.10.1-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-arm64.tar.gz) | 22.2 MiB | `native/linux/arm64` |
+| [prime-agent-0.10.1-linux-x64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-x64.debug.gz) | 44.2 MiB | `other` |
+| [prime-agent-0.10.1-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-x64.tar.gz) | 21.8 MiB | `native/unknown` |
+| [prime-agent-0.10.1-src.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-src.tar.gz) | 6.6 MiB | `native/unknown` |
+| [prime-agent-0.10.1-win32-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-win32-x64.tar.gz) | 21.0 MiB | `native/win/x64` |
+| [prime-agent-0.10.1.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1.tgz) | 10.6 MiB | `native/unknown` |
+| [sbom-spdx-0.10.1-aarch64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-aarch64-apple-darwin.json) | 1.2 KiB | `native/darwin/arm64` |
+| [sbom-spdx-0.10.1-aarch64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-aarch64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/arm64/glibc` |
+| [sbom-spdx-0.10.1-x86_64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-x86_64-apple-darwin.json) | 1.2 KiB | `native/darwin/x64` |
+| [sbom-spdx-0.10.1-x86_64-pc-windows-msvc.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-x86_64-pc-windows-msvc.json) | 2.9 KiB | `native/win/x64` |
+| [sbom-spdx-0.10.1-x86_64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-x86_64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/x64/glibc` |
+| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/SHA256SUMS) | 911 B | `other` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for prime-agent lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:29:42Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:27:30Z._
