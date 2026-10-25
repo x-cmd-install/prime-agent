@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1798,
       "digest": "sha256:bcf4b3c98171cf07376822d9fd52e214a340fcc05ac47e29aa3ab61fcd556c31",
-      "download_count": 52,
+      "download_count": 55,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:56Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2502,
       "digest": "sha256:1f502048ff3fb5b0520592a10c4bb1802aa1121783981fe16b8cbc449d0f4676",
-      "download_count": 33,
+      "download_count": 40,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:56Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/manifest.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22206147,
       "digest": "sha256:2b47bd9cefa0b531151aaeb7295073ba0a16cf694177c18b4f9f74a54b24e279",
-      "download_count": 30,
+      "download_count": 35,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:58Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23015784,
       "digest": "sha256:9e2812084acead5a2c44209ffac350f762da67a27f4abcc5b417b7a6ef436632",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:58Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-darwin-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 23231713,
       "digest": "sha256:5af68c10a088538fd4990fd18778d8c7fe28c0491083dc069c5177f733770e91",
-      "download_count": 26,
+      "download_count": 46,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:58Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 46371014,
       "digest": "sha256:36169fd4a7479a13cd67847a6b5ec6f5bd77de3e3c31162d292feae45a0c0c07",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:59Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-x64.debug.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 22908587,
       "digest": "sha256:21ec219183f4134dd23dce9572102e69456066fe374846525561c776d4d1945c",
-      "download_count": 59,
+      "download_count": 212,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:58Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-linux-x64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6875506,
       "digest": "sha256:27350c8318c4715482b72d15188e0dc23c9a023ba57dc58db454a88a4ed83053",
-      "download_count": 30,
+      "download_count": 45,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:57Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-src.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22038879,
       "digest": "sha256:6886e57f58d722a75c492c683147ab3b71f2e2e5909141b5d55cc1a2cf6a061a",
-      "download_count": 30,
+      "download_count": 40,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:58Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1-win32-x64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 11085611,
       "digest": "sha256:40b86b39e56c5ced363eedff0fee4c20a9fd3cc2fb10d06629217a2fdb62d988",
-      "download_count": 59,
+      "download_count": 69,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:57Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/prime-agent-0.10.1.tgz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1226,
       "digest": "sha256:091c4ac8b68910dec5faa585fe21288f00661b27be1d2815eeb0f64bf07e78dc",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:56Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/sbom-spdx-0.10.1-x86_64-unknown-linux-gnu.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 911,
       "digest": "sha256:70316279afd1a4d20372a0393d3d703d5a7f54c34989a4dea45619273534bab6",
-      "download_count": 58,
+      "download_count": 80,
       "created_at": "2026-10-21T23:33:56Z",
       "updated_at": "2026-10-21T23:33:56Z",
       "browser_download_url": "https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.1/SHA256SUMS"
@@ -654,11 +654,11 @@
   "body": null,
   "reactions": {
     "url": "https://api.github.com/repos/PrimeIntellect-ai/prime-agent/releases/420155677/reactions",
-    "total_count": 14,
+    "total_count": 15,
     "+1": 2,
     "-1": 0,
     "laugh": 0,
-    "hooray": 3,
+    "hooray": 4,
     "confused": 0,
     "heart": 5,
     "rocket": 4,
