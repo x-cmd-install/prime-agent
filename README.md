@@ -14,11 +14,11 @@ x install prime-agent
 
 ## Code insight
 
-Total: **628,600** lines of code across **1487** files in the top 5 languages.
+Total: **630,345** lines of code across **1488** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 540,354 | 23,983 | 32,307 | 1325 |
+| Rust | 542,099 | 24,098 | 32,366 | 1326 |
 | Python | 45,830 | 3,346 | 5,149 | 133 |
 | Json | 34,451 | 0 | 12 | 22 |
 | JavaScript | 2,957 | 98 | 208 | 4 |
@@ -32,27 +32,27 @@ Total: **628,600** lines of code across **1487** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.3` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,727 · **Forks**: 2,519 · **Open issues**: 459 · **Contributors**: 34
+- **Stars**: 22,791 · **Forks**: 2,529 · **Open issues**: 459 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 1871 · **Open PRs**: 39 · **Closed issues**: 451 · **Open issues**: 8 · **Commits**: 5321
+- **Releases**: 61 · **Merged PRs**: 1874 · **Open PRs**: 43 · **Closed issues**: 451 · **Open issues**: 8 · **Commits**: 5324
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 159 | 36 | 30 | 1 | 151 |
-| last60d | 2026-09-17 | 10 | 1023 | 39 | 84 | 7 | 471 |
-| 90d | 2026-08-18 | 19 | 1308 | 39 | 169 | 8 | 763 |
-| last180d | 2026-05-20 | 60 | 1832 | 39 | 451 | 8 | 1289 |
-| 360d | 2025-11-21 | 61 | 1871 | 39 | 451 | 8 | 4631 |
-| last720d | 2024-11-26 | 61 | 1871 | 39 | 451 | 8 | 5321 |
+| 30d | 2026-10-18 | 5 | 161 | 41 | 30 | 1 | 154 |
+| last60d | 2026-09-18 | 10 | 1020 | 43 | 84 | 7 | 474 |
+| 90d | 2026-08-19 | 19 | 1308 | 43 | 167 | 8 | 766 |
+| last180d | 2026-05-21 | 59 | 1828 | 43 | 451 | 8 | 1292 |
+| 360d | 2025-11-22 | 61 | 1874 | 43 | 451 | 8 | 4634 |
+| last720d | 2024-11-27 | 61 | 1874 | 43 | 451 | 8 | 5324 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for prime-agent lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:09:25Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:46:07Z._
