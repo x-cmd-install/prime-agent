@@ -14,11 +14,11 @@ x install prime-agent
 
 ## 代码洞察
 
-合计: **630,345** 行代码（覆盖前 5 种语言、共 **1488** 个文件）。
+合计: **633,067** 行代码（覆盖前 5 种语言、共 **1493** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 542,099 | 24,098 | 32,366 | 1326 |
+| Rust | 544,821 | 24,281 | 32,471 | 1331 |
 | Python | 45,830 | 3,346 | 5,149 | 133 |
 | Json | 34,451 | 0 | 12 | 22 |
 | JavaScript | 2,957 | 98 | 208 | 4 |
@@ -31,50 +31,50 @@ x install prime-agent
 
 ## 发布
 
-- **最新版本**: `v0.10.3` (2026-11-12)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v0.10.5` (2026-11-18)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 22,791 · **Fork**: 2,529 · **开放 issue**: 459 · **贡献者**: 34
+- **Star**: 22,835 · **Fork**: 2,529 · **开放 issue**: 460 · **贡献者**: 34
 
 ## 累计统计
 
-- **发布数**: 61 · **已合并 PR**: 1874 · **开放 PR**: 43 · **已关闭 issue**: 451 · **开放 issue**: 8 · **提交数**: 5324
+- **发布数**: 63 · **已合并 PR**: 1890 · **开放 PR**: 39 · **已关闭 issue**: 452 · **开放 issue**: 8 · **提交数**: 5340
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 161 | 41 | 30 | 1 | 154 |
-| last60d | 2026-09-18 | 10 | 1020 | 43 | 84 | 7 | 474 |
-| 90d | 2026-08-19 | 19 | 1308 | 43 | 167 | 8 | 766 |
-| last180d | 2026-05-21 | 59 | 1828 | 43 | 451 | 8 | 1292 |
-| 360d | 2025-11-22 | 61 | 1874 | 43 | 451 | 8 | 4634 |
-| last720d | 2024-11-27 | 61 | 1874 | 43 | 451 | 8 | 5324 |
+| 30d | 2026-10-20 | 7 | 163 | 35 | 29 | 1 | 170 |
+| last60d | 2026-09-20 | 12 | 1023 | 39 | 85 | 7 | 490 |
+| 90d | 2026-08-21 | 20 | 1307 | 39 | 157 | 8 | 782 |
+| last180d | 2026-05-23 | 60 | 1839 | 39 | 452 | 8 | 1308 |
+| 360d | 2025-11-24 | 63 | 1890 | 39 | 452 | 8 | 4650 |
+| last720d | 2024-11-29 | 63 | 1890 | 39 | 452 | 8 | 5340 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/latest.json) | 1.8 KiB | `other` |
-| [manifest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/manifest.json) | 2.4 KiB | `other` |
-| [prime-agent-0.10.3-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-darwin-arm64.tar.gz) | 21.2 MiB | `native/darwin/arm64` |
-| [prime-agent-0.10.3-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-darwin-x64.tar.gz) | 22.1 MiB | `native/darwin/x64` |
-| [prime-agent-0.10.3-linux-arm64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-linux-arm64.debug.gz) | 43.7 MiB | `native/linux/arm64` |
-| [prime-agent-0.10.3-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-linux-arm64.tar.gz) | 22.1 MiB | `native/linux/arm64` |
-| [prime-agent-0.10.3-linux-x64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-linux-x64.debug.gz) | 44.1 MiB | `other` |
-| [prime-agent-0.10.3-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-linux-x64.tar.gz) | 21.9 MiB | `native/unknown` |
-| [prime-agent-0.10.3-src.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-src.tar.gz) | 6.7 MiB | `native/unknown` |
-| [prime-agent-0.10.3-win32-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3-win32-x64.tar.gz) | 21.0 MiB | `native/win/x64` |
-| [prime-agent-0.10.3.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/prime-agent-0.10.3.tgz) | 10.6 MiB | `native/unknown` |
-| [sbom-spdx-0.10.3-aarch64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/sbom-spdx-0.10.3-aarch64-apple-darwin.json) | 1.2 KiB | `native/darwin/arm64` |
-| [sbom-spdx-0.10.3-aarch64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/sbom-spdx-0.10.3-aarch64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/arm64/glibc` |
-| [sbom-spdx-0.10.3-x86_64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/sbom-spdx-0.10.3-x86_64-apple-darwin.json) | 1.2 KiB | `native/darwin/x64` |
-| [sbom-spdx-0.10.3-x86_64-pc-windows-msvc.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/sbom-spdx-0.10.3-x86_64-pc-windows-msvc.json) | 2.9 KiB | `native/win/x64` |
-| [sbom-spdx-0.10.3-x86_64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/sbom-spdx-0.10.3-x86_64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/x64/glibc` |
-| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.3/SHA256SUMS) | 911 B | `other` |
+| [latest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/latest.json) | 1.8 KiB | `other` |
+| [manifest.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/manifest.json) | 2.4 KiB | `other` |
+| [prime-agent-0.10.5-darwin-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-darwin-arm64.tar.gz) | 21.5 MiB | `native/darwin/arm64` |
+| [prime-agent-0.10.5-darwin-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-darwin-x64.tar.gz) | 22.5 MiB | `native/darwin/x64` |
+| [prime-agent-0.10.5-linux-arm64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-linux-arm64.debug.gz) | 44.1 MiB | `native/linux/arm64` |
+| [prime-agent-0.10.5-linux-arm64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-linux-arm64.tar.gz) | 22.4 MiB | `native/linux/arm64` |
+| [prime-agent-0.10.5-linux-x64.debug.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-linux-x64.debug.gz) | 44.6 MiB | `other` |
+| [prime-agent-0.10.5-linux-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-linux-x64.tar.gz) | 22.3 MiB | `native/unknown` |
+| [prime-agent-0.10.5-src.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-src.tar.gz) | 6.8 MiB | `native/unknown` |
+| [prime-agent-0.10.5-win32-x64.tar.gz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5-win32-x64.tar.gz) | 21.5 MiB | `native/win/x64` |
+| [prime-agent-0.10.5.tgz](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/prime-agent-0.10.5.tgz) | 10.6 MiB | `native/unknown` |
+| [sbom-spdx-0.10.5-aarch64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/sbom-spdx-0.10.5-aarch64-apple-darwin.json) | 1.2 KiB | `native/darwin/arm64` |
+| [sbom-spdx-0.10.5-aarch64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/sbom-spdx-0.10.5-aarch64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/arm64/glibc` |
+| [sbom-spdx-0.10.5-x86_64-apple-darwin.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/sbom-spdx-0.10.5-x86_64-apple-darwin.json) | 1.2 KiB | `native/darwin/x64` |
+| [sbom-spdx-0.10.5-x86_64-pc-windows-msvc.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/sbom-spdx-0.10.5-x86_64-pc-windows-msvc.json) | 2.9 KiB | `native/win/x64` |
+| [sbom-spdx-0.10.5-x86_64-unknown-linux-gnu.json](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/sbom-spdx-0.10.5-x86_64-unknown-linux-gnu.json) | 1.2 KiB | `native/linux/x64/glibc` |
+| [SHA256SUMS](https://github.com/PrimeIntellect-ai/prime-agent/releases/download/v0.10.5/SHA256SUMS) | 911 B | `other` |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ prime-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T07:46:07Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:10:39Z._
