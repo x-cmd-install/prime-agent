@@ -32,27 +32,27 @@ Total: **645,260** lines of code across **1507** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.5` (2026-11-18)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 22,873 · **Forks**: 2,530 · **Open issues**: 463 · **Contributors**: 35
+- **Stars**: 22,886 · **Forks**: 2,532 · **Open issues**: 463 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 1918 · **Open PRs**: 34 · **Closed issues**: 455 · **Open issues**: 8 · **Commits**: 5368
+- **Releases**: 63 · **Merged PRs**: 1919 · **Open PRs**: 64 · **Closed issues**: 455 · **Open issues**: 8 · **Commits**: 5369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 155 | 29 | 26 | 0 | 198 |
-| last60d | 2026-09-23 | 12 | 904 | 34 | 84 | 7 | 518 |
-| 90d | 2026-08-24 | 19 | 1328 | 34 | 138 | 8 | 810 |
-| last180d | 2026-05-26 | 60 | 1867 | 34 | 455 | 8 | 1336 |
-| 360d | 2025-11-27 | 63 | 1918 | 34 | 455 | 8 | 4678 |
-| last720d | 2024-12-02 | 63 | 1918 | 34 | 455 | 8 | 5368 |
+| 30d | 2026-10-24 | 4 | 153 | 61 | 24 | 0 | 154 |
+| last60d | 2026-09-24 | 12 | 856 | 64 | 83 | 7 | 490 |
+| 90d | 2026-08-25 | 19 | 1325 | 64 | 136 | 8 | 773 |
+| last180d | 2026-05-27 | 60 | 1862 | 64 | 455 | 8 | 1323 |
+| 360d | 2025-11-28 | 63 | 1919 | 64 | 455 | 8 | 4596 |
+| last720d | 2024-12-03 | 63 | 1919 | 64 | 455 | 8 | 5369 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for prime-agent lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:29:32Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:20:27Z._
